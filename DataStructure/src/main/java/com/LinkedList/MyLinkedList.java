@@ -1,6 +1,32 @@
 package com.LinkedList;
 
+import org.omg.PortableInterceptor.INACTIVE;
+
 public class MyLinkedList<T> {
+    public Node getHead() {
+        return head;
+    }
+
+    public void setHead(Node head) {
+        this.head = head;
+    }
+
+    public Node getTail() {
+        return tail;
+    }
+
+    public void setTail(Node tail) {
+        this.tail = tail;
+    }
+
+    public int getSize() {
+        return size;
+    }
+
+    public void setSize(int size) {
+        this.size = size;
+    }
+
     Node head;
     Node tail;
     int size=0;
@@ -16,6 +42,12 @@ public class MyLinkedList<T> {
             tail=n;
             size++;
         }
+    }
+
+    public void add(Node n){
+        tail.setLink(n);
+        tail=n;
+        size++;
     }
 
     public int size(){
@@ -77,6 +109,23 @@ public class MyLinkedList<T> {
 
     }
 
+    public void sortLinedList(){
+        if(size>2){
+            Node currentNode=head;
+            Node nextNode=head.getLink();
+            Node sortedNode=head;
+            for(Node i=currentNode;i!=null;i=i.getLink()){
+                for(Node j=i;j!=null;j=j.getLink() ){
+                    if(compare((T)i.getData(),(T)j.getData())>0){
+                        T data=(T) i.getData();
+                        i.setData(j.getData());
+                        j.setData(data);
+                    }
+                }
+            }
+        }
+    }
+
     public void printList(){
         Node n=head;
         while(n!=null){
@@ -84,7 +133,18 @@ public class MyLinkedList<T> {
             n=n.getLink();
         }
     }
+
+    public int compare(T data1, T data2){
+        if( data1 instanceof Integer){
+            return (Integer) data1- (Integer) data2;
+        }else if(data1 instanceof String){
+            return  ((String) data1).compareTo((String)data2);
+            //return (int)((String) data1).charAt(0)- (int)((String) data2).charAt(0);
+        }
+        return 0;
+    }
 }
+
 
 class Node<T>{
     Node(T data){
