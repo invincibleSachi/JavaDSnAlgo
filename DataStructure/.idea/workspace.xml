@@ -1,33 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fcef88a4-9f38-4119-83f0-67d3e20d8eaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Algo/TowerOfHanoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/KthUnsorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/LinkedList/CircularLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/LinkedList/CircularMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/LinkedList/DetectACycleInLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/LinkedList/SortedLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/LinkedList/SortedLlMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/btree/BTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/btree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/btree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/aux/Tnode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/btree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/exceptions/StackException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/queues/QueueCircularLlistImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/queues/QueueLinkedListImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/queues/QueueMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/searching/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sorting/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stacks/StackArrayImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stacks/StackLinkedListImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stacks/StackMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/FindSumPairInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/JugglingAlgoRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/MergeMNSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/MergeNSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/ReverseArrayOptimized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/SortedArrayFindUniqueEleement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/SortedNRotatedArrayFindSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/aux/ANode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/aux/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/aux/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/aux/Vertex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/aux/WgVertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/avltree/AvlTreeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/avltree/AvlTreeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/graph/DirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/graph/GraphMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/graph/GraphMainShortestDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/graph/ShortestPathDG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/graph/ShortestPathWeightedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/graph/WGMainShortestDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/heap/HeapMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/heap/MinHeapImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/searching/FindMinInSortedAndRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/searching/SearchInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/com/strategy/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/com/strategy/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/com/strategy/CanFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/com/strategy/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/com/strategy/FlyHigh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/com/strategy/FlyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/com/strategy/Getter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/com/strategy/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/LinkedList/MainFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LinkedList/MainFunc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/LinkedList/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LinkedList/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/complex/algo/btree/bTreeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/btree/bTreeImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sorting/InsertionSort.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,17 +64,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1OVNO2r8VWyWEFW61ej0LgIatKJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -68,21 +89,9 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.searching.BinarySearch" />
+  <component name="RunManager" selected="Application.FindSumPairInSortedArray">
+    <configuration name="FindMinInSortedAndRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.searching.FindMinInSortedAndRotatedArray" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KthUnsorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Array.KthUnsorted" />
+    <configuration name="FindSumPairInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Array.FindSumPairInSortedArray" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
@@ -107,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.complex.algo.btree.Main" />
+    <configuration name="JugglingAlgoRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Array.JugglingAlgoRotation" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.complex.algo.btree.*" />
+          <option name="PATTERN" value="com.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.btree.Main" />
+    <configuration name="SearchInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.searching.SearchInSortedArray" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.btree.*" />
+          <option name="PATTERN" value="com.searching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TowerOfHanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Algo.TowerOfHanoi" />
+    <configuration name="SortedArrayFindUniqueEleement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Array.SortedArrayFindUniqueEleement" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Algo.*" />
+          <option name="PATTERN" value="com.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,14 +157,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.TowerOfHanoi" />
-        <item itemvalue="Application.KthUnsorted" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FindSumPairInSortedArray" />
+        <item itemvalue="Application.SortedArrayFindUniqueEleement" />
+        <item itemvalue="Application.FindMinInSortedAndRotatedArray" />
+        <item itemvalue="Application.SearchInSortedArray" />
+        <item itemvalue="Application.JugglingAlgoRotation" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -174,13 +184,50 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="434" height="506" key="DebuggerActiveHint" timestamp="1596944559980">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="434" height="506" key="DebuggerActiveHint/67.27.1853.1053@67.27.1853.1053" timestamp="1596944559980" />
+    <state width="1354" height="259" key="GridCell.Tab.0.bottom" timestamp="1596955927396">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1354" height="259" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1596955927396" />
+    <state width="1354" height="259" key="GridCell.Tab.0.center" timestamp="1596955927396">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1354" height="259" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1596955927396" />
+    <state width="1354" height="259" key="GridCell.Tab.0.left" timestamp="1596955927396">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1354" height="259" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1596955927396" />
+    <state width="1354" height="259" key="GridCell.Tab.0.right" timestamp="1596955927396">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1354" height="259" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1596955927396" />
+    <state width="1354" height="314" key="GridCell.Tab.1.bottom" timestamp="1596954084897">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1354" height="314" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1596954084897" />
+    <state width="1354" height="314" key="GridCell.Tab.1.center" timestamp="1596954084896">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1354" height="314" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1596954084896" />
+    <state width="1354" height="314" key="GridCell.Tab.1.left" timestamp="1596954084895">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1354" height="314" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1596954084895" />
+    <state width="1354" height="314" key="GridCell.Tab.1.right" timestamp="1596954084896">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1354" height="314" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1596954084896" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -224,6 +271,66 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/searching/BinarySearch.java</url>
           <line>18</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Array/MergeSortedArray.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Array/MergeSortedArray.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/complex/algo/heap/MinHeapImpl.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/complex/algo/heap/MinHeapImpl.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/complex/algo/graph/WGMainShortestDistance.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/complex/algo/graph/WGMainShortestDistance.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sorting/InsertionSort.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Array/ReverseArrayOptimized.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Array/JugglingAlgoRotation.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/searching/SearchInSortedArray.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/searching/FindMinInSortedAndRotatedArray.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Array/SortedArrayFindUniqueEleement.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
