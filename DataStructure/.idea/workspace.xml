@@ -5,45 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcef88a4-9f38-4119-83f0-67d3e20d8eaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/FindSumPairInSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/JugglingAlgoRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/MergeMNSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/MergeNSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/ReverseArrayOptimized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/SortedArrayFindUniqueEleement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/SortedNRotatedArrayFindSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/aux/ANode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/aux/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/aux/Vertex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/aux/Vertex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/aux/WgVertex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/avltree/AvlTreeImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/avltree/AvlTreeMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/graph/DirectedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/graph/GraphMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/graph/GraphMainShortestDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/graph/ShortestPathDG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/graph/ShortestPathWeightedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/graph/WGMainShortestDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/heap/HeapMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/heap/MinHeapImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/searching/FindMinInSortedAndRotatedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/searching/SearchInSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sorting/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/com/strategy/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/com/strategy/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/com/strategy/CanFly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/com/strategy/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/com/strategy/FlyHigh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/com/strategy/FlyType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/com/strategy/Getter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/com/strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Algo/CoinProblem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Algo/RodCutttingMaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/AllPossibleSubArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/CountOfSubsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/EqualSumPartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/Knapsack10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/MaxProfitInKTradingSessions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/MaxSumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/MaximumProfitShares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Array/SubsetWithSumX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ArrayAdv/MaxWay2GoUpStairsStackWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ArrayAdv/MaxWays2GoUpStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lcs/Lcs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/complex/algo/btree/bTreeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/complex/algo/btree/bTreeImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sorting/InsertionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,13 +65,13 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindSumPairInSortedArray">
-    <configuration name="FindMinInSortedAndRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.searching.FindMinInSortedAndRotatedArray" />
+  <component name="RunManager" selected="Application.Lcs">
+    <configuration name="CoinProblem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Algo.CoinProblem1" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.searching.*" />
+          <option name="PATTERN" value="com.Algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindSumPairInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Array.FindSumPairInSortedArray" />
+    <configuration name="CountOfSubsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Array.CountOfSubsets" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JugglingAlgoRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Array.JugglingAlgoRotation" />
+    <configuration name="EqualSumPartition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Array.EqualSumPartition" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
@@ -129,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.searching.SearchInSortedArray" />
+    <configuration name="Lcs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lcs.Lcs" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.searching.*" />
+          <option name="PATTERN" value="com.lcs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedArrayFindUniqueEleement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Array.SortedArrayFindUniqueEleement" />
+    <configuration name="RodCutttingMaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Algo.RodCutttingMaxProfit" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Array.*" />
+          <option name="PATTERN" value="com.Algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindSumPairInSortedArray" />
-        <item itemvalue="Application.SortedArrayFindUniqueEleement" />
-        <item itemvalue="Application.FindMinInSortedAndRotatedArray" />
-        <item itemvalue="Application.SearchInSortedArray" />
-        <item itemvalue="Application.JugglingAlgoRotation" />
+        <item itemvalue="Application.Lcs" />
+        <item itemvalue="Application.CoinProblem1" />
+        <item itemvalue="Application.RodCutttingMaxProfit" />
+        <item itemvalue="Application.CountOfSubsets" />
+        <item itemvalue="Application.EqualSumPartition" />
       </list>
     </recent_temporary>
   </component>
@@ -192,42 +168,46 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="434" height="506" key="DebuggerActiveHint" timestamp="1596944559980">
+    <state width="475" height="506" key="DebuggerActiveHint" timestamp="1596996238043">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="434" height="506" key="DebuggerActiveHint/67.27.1853.1053@67.27.1853.1053" timestamp="1596944559980" />
-    <state width="1354" height="259" key="GridCell.Tab.0.bottom" timestamp="1596955927396">
+    <state width="475" height="506" key="DebuggerActiveHint/67.27.1853.1053@67.27.1853.1053" timestamp="1596996238043" />
+    <state width="1354" height="314" key="GridCell.Tab.0.bottom" timestamp="1597600272336">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1354" height="259" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1596955927396" />
-    <state width="1354" height="259" key="GridCell.Tab.0.center" timestamp="1596955927396">
+    <state width="1354" height="314" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1597600272336" />
+    <state width="1354" height="314" key="GridCell.Tab.0.center" timestamp="1597600272335">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1354" height="259" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1596955927396" />
-    <state width="1354" height="259" key="GridCell.Tab.0.left" timestamp="1596955927396">
+    <state width="1354" height="314" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1597600272335" />
+    <state width="1354" height="314" key="GridCell.Tab.0.left" timestamp="1597600272335">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1354" height="259" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1596955927396" />
-    <state width="1354" height="259" key="GridCell.Tab.0.right" timestamp="1596955927396">
+    <state width="1354" height="314" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1597600272335" />
+    <state width="1354" height="314" key="GridCell.Tab.0.right" timestamp="1597600272335">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1354" height="259" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1596955927396" />
-    <state width="1354" height="314" key="GridCell.Tab.1.bottom" timestamp="1596954084897">
+    <state width="1354" height="314" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1597600272335" />
+    <state width="1354" height="314" key="GridCell.Tab.1.bottom" timestamp="1597600272336">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1354" height="314" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1596954084897" />
-    <state width="1354" height="314" key="GridCell.Tab.1.center" timestamp="1596954084896">
+    <state width="1354" height="314" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1597600272336" />
+    <state width="1354" height="314" key="GridCell.Tab.1.center" timestamp="1597600272336">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1354" height="314" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1596954084896" />
-    <state width="1354" height="314" key="GridCell.Tab.1.left" timestamp="1596954084895">
+    <state width="1354" height="314" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1597600272336" />
+    <state width="1354" height="314" key="GridCell.Tab.1.left" timestamp="1597600272336">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1354" height="314" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1596954084895" />
-    <state width="1354" height="314" key="GridCell.Tab.1.right" timestamp="1596954084896">
+    <state width="1354" height="314" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1597600272336" />
+    <state width="1354" height="314" key="GridCell.Tab.1.right" timestamp="1597600272336">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1354" height="314" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1596954084896" />
+    <state width="1354" height="314" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1597600272336" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1596997689784">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1596997689784" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -331,6 +311,51 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/Array/SortedArrayFindUniqueEleement.java</url>
           <line>12</line>
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Array/AllPossibleSubArrays.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Array/MaximumProfitShares.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ArrayAdv/MaxWays2GoUpStairs.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Array/EqualSumPartition.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Array/CountOfSubsets.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Algo/RodCutttingMaxProfit.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Algo/RodCutttingMaxProfit.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Algo/CoinProblem1.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lcs/Lcs.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
