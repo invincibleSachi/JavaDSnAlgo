@@ -1,11 +1,11 @@
 package com.lcs;
 
 public class Lcs {
+    //Longest common subsequence
     static char[] a={'a','b','c','d','g','h'};
     static char[] b={'a','b','e','d','f','h','r'};
     public static void main(String[] args){
         System.out.println(lcs(a.length,b.length));
-
     }
 
     public static int lcs(int m, int n){
